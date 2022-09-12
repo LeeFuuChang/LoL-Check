@@ -1,0 +1,1414 @@
+Loading Champion: Aatrox
+Web containing Aatrox loading URL: False
+Web containing Aatrox loading URL: True
+Web containing Aatrox loading IMG: True
+Found champion Aatrox loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Aatrox_OriginalLoading.jpg/revision/latest?cb=20200424003950
+Success loading champion Aatrox
+
+
+Loading Champion: Ahri
+Web containing Ahri loading URL: True
+Web containing Ahri loading IMG: True
+Found champion Ahri loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Ahri_OriginalLoading.jpg/revision/latest?cb=20200424204351
+Success loading champion Ahri
+
+
+Loading Champion: Akali
+Web containing Akali loading URL: True
+Web containing Akali loading IMG: True
+Found champion Akali loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Akali_OriginalLoading.jpg/revision/latest?cb=20210517005950
+Success loading champion Akali
+
+
+Loading Champion: Akshan
+Web containing Akshan loading URL: False
+Web containing Akshan loading URL: False
+Web containing Akshan loading URL: False
+Web containing Akshan loading URL: True
+Web containing Akshan loading IMG: True
+Found champion Akshan loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Akshan_OriginalLoading.jpg/revision/latest?cb=20210707203304
+Success loading champion Akshan
+
+
+Loading Champion: Alistar
+Web containing Alistar loading URL: False
+Web containing Alistar loading URL: False
+Web containing Alistar loading URL: True
+Web containing Alistar loading IMG: True
+Found champion Alistar loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Alistar_OriginalLoading.jpg/revision/latest?cb=20200424205101
+Success loading champion Alistar
+
+
+Loading Champion: Amumu
+Web containing Amumu loading URL: False
+Web containing Amumu loading URL: False
+Web containing Amumu loading URL: True
+Web containing Amumu loading IMG: True
+Found champion Amumu loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Amumu_OriginalLoading.jpg/revision/latest?cb=20200424205448
+Success loading champion Amumu
+
+
+Loading Champion: Anivia
+Web containing Anivia loading URL: True
+Web containing Anivia loading IMG: True
+Found champion Anivia loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Anivia_OriginalLoading.jpg/revision/latest?cb=20200424205955
+Success loading champion Anivia
+
+
+Loading Champion: Annie
+Web containing Annie loading URL: False
+Web containing Annie loading URL: False
+Web containing Annie loading URL: True
+Web containing Annie loading IMG: True
+Found champion Annie loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Annie_OriginalLoading.jpg/revision/latest?cb=20200424210357
+Success loading champion Annie
+
+
+Loading Champion: Aphelios
+Web containing Aphelios loading URL: True
+Web containing Aphelios loading IMG: True
+Found champion Aphelios loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Aphelios_OriginalLoading.jpg/revision/latest?cb=20210517011124
+Success loading champion Aphelios
+
+
+Loading Champion: Ashe
+Web containing Ashe loading URL: False
+Web containing Ashe loading URL: False
+Web containing Ashe loading URL: False
+Web containing Ashe loading URL: True
+Web containing Ashe loading IMG: True
+Found champion Ashe loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Ashe_OriginalLoading.jpg/revision/latest?cb=20200424210825
+Success loading champion Ashe
+
+
+Loading Champion: Aurelion Sol
+Web containing Aurelion Sol loading URL: False
+Web containing Aurelion Sol loading URL: False
+Web containing Aurelion Sol loading URL: True
+Web containing Aurelion Sol loading IMG: True
+Found champion Aurelion Sol loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Aurelion_Sol_OriginalLoading.jpg/revision/latest?cb=20200424211922
+Success loading champion Aurelion Sol
+
+
+Loading Champion: Azir
+Web containing Azir loading URL: True
+Web containing Azir loading IMG: True
+Found champion Azir loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Azir_OriginalLoading.jpg/revision/latest?cb=20200424212036
+Success loading champion Azir
+
+
+Loading Champion: Bard
+Web containing Bard loading URL: True
+Web containing Bard loading IMG: True
+Found champion Bard loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Bard_OriginalLoading.jpg/revision/latest?cb=20200424212251
+Success loading champion Bard
+
+
+Loading Champion: Blitzcrank
+Web containing Blitzcrank loading URL: True
+Web containing Blitzcrank loading IMG: True
+Found champion Blitzcrank loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Blitzcrank_OriginalLoading.jpg/revision/latest?cb=20200424212740
+Success loading champion Blitzcrank
+
+
+Loading Champion: Brand
+Web containing Brand loading URL: False
+Web containing Brand loading URL: True
+Web containing Brand loading IMG: True
+Found champion Brand loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Brand_OriginalLoading.jpg/revision/latest?cb=20200424213033
+Success loading champion Brand
+
+
+Loading Champion: Braum
+Web containing Braum loading URL: False
+Web containing Braum loading URL: True
+Web containing Braum loading IMG: True
+Found champion Braum loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Braum_OriginalLoading.jpg/revision/latest?cb=20200424213548
+Success loading champion Braum
+
+
+Loading Champion: Caitlyn
+Web containing Caitlyn loading URL: True
+Web containing Caitlyn loading IMG: True
+Found champion Caitlyn loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Caitlyn_OriginalLoading.jpg/revision/latest?cb=20211102202718
+Success loading champion Caitlyn
+
+
+Loading Champion: Camille
+Web containing Camille loading URL: False
+Web containing Camille loading URL: True
+Web containing Camille loading IMG: True
+Found champion Camille loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Camille_OriginalLoading.jpg/revision/latest?cb=20200424214221
+Success loading champion Camille
+
+
+Loading Champion: Cassiopeia
+Web containing Cassiopeia loading URL: True
+Web containing Cassiopeia loading IMG: True
+Found champion Cassiopeia loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Cassiopeia_OriginalLoading.jpg/revision/latest?cb=20200424214527
+Success loading champion Cassiopeia
+
+
+Loading Champion: Cho'Gath
+Web containing Cho'Gath loading URL: True
+Web containing Cho'Gath loading IMG: True
+Found champion Cho'Gath loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Cho%27Gath_OriginalLoading.jpg/revision/latest?cb=20200424214857
+Success loading champion Cho'Gath
+
+
+Loading Champion: Corki
+Web containing Corki loading URL: False
+Web containing Corki loading URL: True
+Web containing Corki loading IMG: True
+Found champion Corki loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Corki_OriginalLoading.jpg/revision/latest?cb=20200424215251
+Success loading champion Corki
+
+
+Loading Champion: Darius
+Web containing Darius loading URL: False
+Web containing Darius loading URL: False
+Web containing Darius loading URL: False
+Web containing Darius loading URL: True
+Web containing Darius loading IMG: True
+Found champion Darius loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Darius_OriginalLoading.jpg/revision/latest?cb=20200424215631
+Success loading champion Darius
+
+
+Loading Champion: Diana
+Web containing Diana loading URL: True
+Web containing Diana loading IMG: True
+Found champion Diana loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Diana_OriginalLoading.jpg/revision/latest?cb=20200424220246
+Success loading champion Diana
+
+
+Loading Champion: Dr. Mundo
+Web containing Dr. Mundo loading URL: False
+Web containing Dr. Mundo loading URL: False
+Web containing Dr. Mundo loading URL: True
+Web containing Dr. Mundo loading IMG: True
+Found champion Dr. Mundo loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Dr._Mundo_OriginalLoading.jpg/revision/latest?cb=20210525192014
+Success loading champion Dr. Mundo
+
+
+Loading Champion: Draven
+Web containing Draven loading URL: False
+Web containing Draven loading URL: False
+Web containing Draven loading URL: True
+Web containing Draven loading IMG: True
+Found champion Draven loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Draven_OriginalLoading.jpg/revision/latest?cb=20200424220900
+Success loading champion Draven
+
+
+Loading Champion: Ekko
+Web containing Ekko loading URL: False
+Web containing Ekko loading URL: True
+Web containing Ekko loading IMG: True
+Found champion Ekko loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Ekko_OriginalLoading.jpg/revision/latest?cb=20200424221149
+Success loading champion Ekko
+
+
+Loading Champion: Elise
+Web containing Elise loading URL: False
+Web containing Elise loading URL: True
+Web containing Elise loading IMG: True
+Found champion Elise loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Elise_OriginalLoading.jpg/revision/latest?cb=20200424221424
+Success loading champion Elise
+
+
+Loading Champion: Evelynn
+Web containing Evelynn loading URL: True
+Web containing Evelynn loading IMG: True
+Found champion Evelynn loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Evelynn_OriginalLoading.jpg/revision/latest?cb=20200425190737
+Success loading champion Evelynn
+
+
+Loading Champion: Ezreal
+Web containing Ezreal loading URL: True
+Web containing Ezreal loading IMG: True
+Found champion Ezreal loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Ezreal_OriginalLoading.jpg/revision/latest?cb=20210517013604
+Success loading champion Ezreal
+
+
+Loading Champion: Fiddlesticks
+Web containing Fiddlesticks loading URL: False
+Web containing Fiddlesticks loading URL: False
+Web containing Fiddlesticks loading URL: False
+Web containing Fiddlesticks loading URL: True
+Web containing Fiddlesticks loading IMG: True
+Found champion Fiddlesticks loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Fiddlesticks_OriginalLoading.jpg/revision/latest?cb=20210517014106
+Success loading champion Fiddlesticks
+
+
+Loading Champion: Fiora
+Web containing Fiora loading URL: False
+Web containing Fiora loading URL: False
+Web containing Fiora loading URL: True
+Web containing Fiora loading IMG: True
+Found champion Fiora loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Fiora_OriginalLoading.jpg/revision/latest?cb=20200424221759
+Success loading champion Fiora
+
+
+Loading Champion: Fizz
+Web containing Fizz loading URL: False
+Web containing Fizz loading URL: False
+Web containing Fizz loading URL: False
+Web containing Fizz loading URL: True
+Web containing Fizz loading IMG: True
+Found champion Fizz loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Fizz_OriginalLoading.jpg/revision/latest?cb=20200424222148
+Success loading champion Fizz
+
+
+Loading Champion: Galio
+Web containing Galio loading URL: False
+Web containing Galio loading URL: False
+Web containing Galio loading URL: True
+Web containing Galio loading IMG: True
+Found champion Galio loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Galio_OriginalLoading.jpg/revision/latest?cb=20200424225448
+Success loading champion Galio
+
+
+Loading Champion: Gangplank
+Web containing Gangplank loading URL: False
+Web containing Gangplank loading URL: False
+Web containing Gangplank loading URL: False
+Web containing Gangplank loading URL: True
+Web containing Gangplank loading IMG: True
+Found champion Gangplank loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Gangplank_OriginalLoading.jpg/revision/latest?cb=20200424225655
+Success loading champion Gangplank
+
+
+Loading Champion: Garen
+Web containing Garen loading URL: False
+Web containing Garen loading URL: False
+Web containing Garen loading URL: False
+Web containing Garen loading URL: False
+Web containing Garen loading URL: True
+Web containing Garen loading IMG: True
+Found champion Garen loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Garen_OriginalLoading.jpg/revision/latest?cb=20200424230138
+Success loading champion Garen
+
+
+Loading Champion: Gnar
+Web containing Gnar loading URL: False
+Web containing Gnar loading URL: True
+Web containing Gnar loading IMG: True
+Found champion Gnar loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Gnar_OriginalLoading.jpg/revision/latest?cb=20200424230607
+Success loading champion Gnar
+
+
+Loading Champion: Gragas
+Web containing Gragas loading URL: False
+Web containing Gragas loading URL: False
+Web containing Gragas loading URL: False
+Web containing Gragas loading URL: True
+Web containing Gragas loading IMG: True
+Found champion Gragas loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Gragas_OriginalLoading.jpg/revision/latest?cb=20200424231008
+Success loading champion Gragas
+
+
+Loading Champion: Graves
+Web containing Graves loading URL: True
+Web containing Graves loading IMG: True
+Found champion Graves loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Graves_OriginalLoading.jpg/revision/latest?cb=20200425195846
+Success loading champion Graves
+
+
+Loading Champion: Gwen
+Web containing Gwen loading URL: False
+Web containing Gwen loading URL: False
+Web containing Gwen loading URL: False
+Web containing Gwen loading URL: True
+Web containing Gwen loading IMG: True
+Found champion Gwen loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Gwen_OriginalLoading.jpg/revision/latest?cb=20210331004848
+Success loading champion Gwen
+
+
+Loading Champion: Hecarim
+Web containing Hecarim loading URL: True
+Web containing Hecarim loading IMG: True
+Found champion Hecarim loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Hecarim_OriginalLoading.jpg/revision/latest?cb=20200424232023
+Success loading champion Hecarim
+
+
+Loading Champion: Heimerdinger
+Web containing Heimerdinger loading URL: False
+Web containing Heimerdinger loading URL: False
+Web containing Heimerdinger loading URL: False
+Web containing Heimerdinger loading URL: True
+Web containing Heimerdinger loading IMG: True
+Found champion Heimerdinger loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Heimerdinger_OriginalLoading.jpg/revision/latest?cb=20200424232331
+Success loading champion Heimerdinger
+
+
+Loading Champion: Illaoi
+Web containing Illaoi loading URL: True
+Web containing Illaoi loading IMG: True
+Found champion Illaoi loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Illaoi_OriginalLoading.jpg/revision/latest?cb=20200424232459
+Success loading champion Illaoi
+
+
+Loading Champion: Irelia
+Web containing Irelia loading URL: False
+Web containing Irelia loading URL: False
+Web containing Irelia loading URL: False
+Web containing Irelia loading URL: True
+Web containing Irelia loading IMG: True
+Found champion Irelia loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Irelia_OriginalLoading.jpg/revision/latest?cb=20210517015816
+Success loading champion Irelia
+
+
+Loading Champion: Ivern
+Web containing Ivern loading URL: False
+Web containing Ivern loading URL: False
+Web containing Ivern loading URL: False
+Web containing Ivern loading URL: True
+Web containing Ivern loading IMG: True
+Found champion Ivern loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Ivern_OriginalLoading.jpg/revision/latest?cb=20200424233020
+Success loading champion Ivern
+
+
+Loading Champion: Janna
+Web containing Janna loading URL: False
+Web containing Janna loading URL: False
+Web containing Janna loading URL: True
+Web containing Janna loading IMG: True
+Found champion Janna loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Janna_OriginalLoading.jpg/revision/latest?cb=20200424233238
+Success loading champion Janna
+
+
+Loading Champion: Jarvan IV
+Web containing Jarvan IV loading URL: False
+Web containing Jarvan IV loading URL: False
+Web containing Jarvan IV loading URL: False
+Web containing Jarvan IV loading URL: True
+Web containing Jarvan IV loading IMG: True
+Found champion Jarvan IV loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Jarvan_IV_OriginalLoading.jpg/revision/latest?cb=20200424233835
+Success loading champion Jarvan IV
+
+
+Loading Champion: Jax
+Web containing Jax loading URL: False
+Web containing Jax loading URL: False
+Web containing Jax loading URL: True
+Web containing Jax loading IMG: True
+Found champion Jax loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Jax_OriginalLoading.jpg/revision/latest?cb=20200424234204
+Success loading champion Jax
+
+
+Loading Champion: Jayce
+Web containing Jayce loading URL: False
+Web containing Jayce loading URL: False
+Web containing Jayce loading URL: False
+Web containing Jayce loading URL: True
+Web containing Jayce loading IMG: True
+Found champion Jayce loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Jayce_OriginalLoading.jpg/revision/latest?cb=20200424234758
+Success loading champion Jayce
+
+
+Loading Champion: Jhin
+Web containing Jhin loading URL: False
+Web containing Jhin loading URL: False
+Web containing Jhin loading URL: False
+Web containing Jhin loading URL: True
+Web containing Jhin loading IMG: True
+Found champion Jhin loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Jhin_OriginalLoading.jpg/revision/latest?cb=20200424235000
+Success loading champion Jhin
+
+
+Loading Champion: Jinx
+Web containing Jinx loading URL: False
+Web containing Jinx loading URL: False
+Web containing Jinx loading URL: False
+Web containing Jinx loading URL: True
+Web containing Jinx loading IMG: True
+Found champion Jinx loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Jinx_OriginalLoading.jpg/revision/latest?cb=20200424235412
+Success loading champion Jinx
+
+
+Loading Champion: Kai'Sa
+Web containing Kai'Sa loading URL: False
+Web containing Kai'Sa loading URL: True
+Web containing Kai'Sa loading IMG: True
+Found champion Kai'Sa loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Kai%27Sa_OriginalLoading.jpg/revision/latest?cb=20200424235750
+Success loading champion Kai'Sa
+
+
+Loading Champion: Kalista
+Web containing Kalista loading URL: False
+Web containing Kalista loading URL: False
+Web containing Kalista loading URL: False
+Web containing Kalista loading URL: True
+Web containing Kalista loading IMG: True
+Found champion Kalista loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Kalista_OriginalLoading.jpg/revision/latest?cb=20200425000145
+Success loading champion Kalista
+
+
+Loading Champion: Karma
+Web containing Karma loading URL: True
+Web containing Karma loading IMG: True
+Found champion Karma loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/69/Karma_OriginalLoading.jpg/revision/latest?cb=20200425000421
+Success loading champion Karma
+
+
+Loading Champion: Karthus
+Web containing Karthus loading URL: False
+Web containing Karthus loading URL: False
+Web containing Karthus loading URL: False
+Web containing Karthus loading URL: True
+Web containing Karthus loading IMG: True
+Found champion Karthus loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Karthus_OriginalLoading.jpg/revision/latest?cb=20200425000940
+Success loading champion Karthus
+
+
+Loading Champion: Kassadin
+Web containing Kassadin loading URL: False
+Web containing Kassadin loading URL: False
+Web containing Kassadin loading URL: False
+Web containing Kassadin loading URL: False
+Web containing Kassadin loading URL: True
+Web containing Kassadin loading IMG: True
+Found champion Kassadin loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Kassadin_OriginalLoading.jpg/revision/latest?cb=20220329192815
+Success loading champion Kassadin
+
+
+Loading Champion: Katarina
+Web containing Katarina loading URL: False
+Web containing Katarina loading URL: False
+Web containing Katarina loading URL: False
+Web containing Katarina loading URL: False
+Web containing Katarina loading URL: True
+Web containing Katarina loading IMG: True
+Found champion Katarina loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Katarina_OriginalLoading.jpg/revision/latest?cb=20200425002036
+Success loading champion Katarina
+
+
+Loading Champion: Kayle
+Web containing Kayle loading URL: True
+Web containing Kayle loading IMG: True
+Found champion Kayle loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Kayle_OriginalLoading.jpg/revision/latest?cb=20210517022123
+Success loading champion Kayle
+
+
+Loading Champion: Kayn
+Web containing Kayn loading URL: False
+Web containing Kayn loading URL: False
+Web containing Kayn loading URL: False
+Web containing Kayn loading URL: True
+Web containing Kayn loading IMG: True
+Found champion Kayn loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Kayn_OriginalLoading.jpg/revision/latest?cb=20200425003330
+Success loading champion Kayn
+
+
+Loading Champion: Kennen
+Web containing Kennen loading URL: False
+Web containing Kennen loading URL: False
+Web containing Kennen loading URL: False
+Web containing Kennen loading URL: True
+Web containing Kennen loading IMG: True
+Found champion Kennen loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Kennen_OriginalLoading.jpg/revision/latest?cb=20200425003715
+Success loading champion Kennen
+
+
+Loading Champion: Kha'Zix
+Web containing Kha'Zix loading URL: False
+Web containing Kha'Zix loading URL: False
+Web containing Kha'Zix loading URL: False
+Web containing Kha'Zix loading URL: True
+Web containing Kha'Zix loading IMG: True
+Found champion Kha'Zix loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Kha%27Zix_OriginalLoading.jpg/revision/latest?cb=20200425004550
+Success loading champion Kha'Zix
+
+
+Loading Champion: Kindred
+Web containing Kindred loading URL: True
+Web containing Kindred loading IMG: True
+Found champion Kindred loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Kindred_OriginalLoading.jpg/revision/latest?cb=20200425004747
+Success loading champion Kindred
+
+
+Loading Champion: Kled
+Web containing Kled loading URL: False
+Web containing Kled loading URL: True
+Web containing Kled loading IMG: True
+Found champion Kled loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Kled_OriginalLoading.jpg/revision/latest?cb=20200425004929
+Success loading champion Kled
+
+
+Loading Champion: Kog'Maw
+Web containing Kog'Maw loading URL: False
+Web containing Kog'Maw loading URL: True
+Web containing Kog'Maw loading IMG: True
+Found champion Kog'Maw loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Kog%27Maw_OriginalLoading.jpg/revision/latest?cb=20200425005536
+Success loading champion Kog'Maw
+
+
+Loading Champion: LeBlanc
+Web containing LeBlanc loading URL: False
+Web containing LeBlanc loading URL: True
+Web containing LeBlanc loading IMG: True
+Found champion LeBlanc loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/LeBlanc_OriginalLoading.jpg/revision/latest?cb=20200425005957
+Success loading champion LeBlanc
+
+
+Loading Champion: Lee Sin
+Web containing Lee Sin loading URL: True
+Web containing Lee Sin loading IMG: True
+Found champion Lee Sin loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Lee_Sin_OriginalLoading.jpg/revision/latest?cb=20200425010606
+Success loading champion Lee Sin
+
+
+Loading Champion: Leona
+Web containing Leona loading URL: False
+Web containing Leona loading URL: False
+Web containing Leona loading URL: False
+Web containing Leona loading URL: False
+Web containing Leona loading URL: True
+Web containing Leona loading IMG: True
+Found champion Leona loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Leona_OriginalLoading.jpg/revision/latest?cb=20200425011041
+Success loading champion Leona
+
+
+Loading Champion: Lillia
+Web containing Lillia loading URL: False
+Web containing Lillia loading URL: False
+Web containing Lillia loading URL: True
+Web containing Lillia loading IMG: True
+Found champion Lillia loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Lillia_OriginalLoading.jpg/revision/latest?cb=20210517023459
+Success loading champion Lillia
+
+
+Loading Champion: Lissandra
+Web containing Lissandra loading URL: False
+Web containing Lissandra loading URL: False
+Web containing Lissandra loading URL: False
+Web containing Lissandra loading URL: False
+Web containing Lissandra loading URL: True
+Web containing Lissandra loading IMG: True
+Found champion Lissandra loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Lissandra_OriginalLoading.jpg/revision/latest?cb=20200425011323
+Success loading champion Lissandra
+
+
+Loading Champion: Lucian
+Web containing Lucian loading URL: False
+Web containing Lucian loading URL: True
+Web containing Lucian loading IMG: True
+Found champion Lucian loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Lucian_OriginalLoading.jpg/revision/latest?cb=20200425011557
+Success loading champion Lucian
+
+
+Loading Champion: Lulu
+Web containing Lulu loading URL: False
+Web containing Lulu loading URL: False
+Web containing Lulu loading URL: True
+Web containing Lulu loading IMG: True
+Found champion Lulu loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Lulu_OriginalLoading.jpg/revision/latest?cb=20200425011909
+Success loading champion Lulu
+
+
+Loading Champion: Lux
+Web containing Lux loading URL: False
+Web containing Lux loading URL: True
+Web containing Lux loading IMG: True
+Found champion Lux loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Lux_OriginalLoading.jpg/revision/latest?cb=20200425012329
+Success loading champion Lux
+
+
+Loading Champion: Malphite
+Web containing Malphite loading URL: False
+Web containing Malphite loading URL: False
+Web containing Malphite loading URL: False
+Web containing Malphite loading URL: False
+Web containing Malphite loading URL: False
+Web containing Malphite loading URL: True
+Web containing Malphite loading IMG: True
+Found champion Malphite loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Malphite_OriginalLoading.jpg/revision/latest?cb=20200425013331
+Success loading champion Malphite
+
+
+Loading Champion: Malzahar
+Web containing Malzahar loading URL: False
+Web containing Malzahar loading URL: False
+Web containing Malzahar loading URL: False
+Web containing Malzahar loading URL: True
+Web containing Malzahar loading IMG: True
+Found champion Malzahar loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Malzahar_OriginalLoading.jpg/revision/latest?cb=20200425013610
+Success loading champion Malzahar
+
+
+Loading Champion: Maokai
+Web containing Maokai loading URL: False
+Web containing Maokai loading URL: False
+Web containing Maokai loading URL: False
+Web containing Maokai loading URL: True
+Web containing Maokai loading IMG: True
+Found champion Maokai loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Maokai_OriginalLoading.jpg/revision/latest?cb=20200425014351
+Success loading champion Maokai
+
+
+Loading Champion: Master Yi
+Web containing Master Yi loading URL: False
+Web containing Master Yi loading URL: False
+Web containing Master Yi loading URL: True
+Web containing Master Yi loading IMG: True
+Found champion Master Yi loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Master_Yi_OriginalLoading.jpg/revision/latest?cb=20200425014912
+Success loading champion Master Yi
+
+
+Loading Champion: Miss Fortune
+Web containing Miss Fortune loading URL: False
+Web containing Miss Fortune loading URL: False
+Web containing Miss Fortune loading URL: False
+Web containing Miss Fortune loading URL: True
+Web containing Miss Fortune loading IMG: True
+Found champion Miss Fortune loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Miss_Fortune_OriginalLoading.jpg/revision/latest?cb=20200425015329
+Success loading champion Miss Fortune
+
+
+Loading Champion: Mordekaiser
+Web containing Mordekaiser loading URL: False
+Web containing Mordekaiser loading URL: False
+Web containing Mordekaiser loading URL: False
+Web containing Mordekaiser loading URL: True
+Web containing Mordekaiser loading IMG: True
+Found champion Mordekaiser loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Mordekaiser_OriginalLoading.jpg/revision/latest?cb=20210517025727
+Success loading champion Mordekaiser
+
+
+Loading Champion: Morgana
+Web containing Morgana loading URL: False
+Web containing Morgana loading URL: False
+Web containing Morgana loading URL: False
+Web containing Morgana loading URL: False
+Web containing Morgana loading URL: True
+Web containing Morgana loading IMG: True
+Found champion Morgana loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Morgana_OriginalLoading.jpg/revision/latest?cb=20210517030146
+Success loading champion Morgana
+
+
+Loading Champion: Nami
+Web containing Nami loading URL: False
+Web containing Nami loading URL: False
+Web containing Nami loading URL: False
+Web containing Nami loading URL: True
+Web containing Nami loading IMG: True
+Found champion Nami loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Nami_OriginalLoading.jpg/revision/latest?cb=20200425020821
+Success loading champion Nami
+
+
+Loading Champion: Nasus
+Web containing Nasus loading URL: False
+Web containing Nasus loading URL: False
+Web containing Nasus loading URL: False
+Web containing Nasus loading URL: True
+Web containing Nasus loading IMG: True
+Found champion Nasus loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Nasus_OriginalLoading.jpg/revision/latest?cb=20200425021201
+Success loading champion Nasus
+
+
+Loading Champion: Nautilus
+Web containing Nautilus loading URL: False
+Web containing Nautilus loading URL: False
+Web containing Nautilus loading URL: False
+Web containing Nautilus loading URL: True
+Web containing Nautilus loading IMG: True
+Found champion Nautilus loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Nautilus_OriginalLoading.jpg/revision/latest?cb=20200425021459
+Success loading champion Nautilus
+
+
+Loading Champion: Neeko
+Web containing Neeko loading URL: False
+Web containing Neeko loading URL: False
+Web containing Neeko loading URL: False
+Web containing Neeko loading URL: True
+Web containing Neeko loading IMG: True
+Found champion Neeko loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Neeko_OriginalLoading.jpg/revision/latest?cb=20210517030605
+Success loading champion Neeko
+
+
+Loading Champion: Nidalee
+Web containing Nidalee loading URL: False
+Web containing Nidalee loading URL: False
+Web containing Nidalee loading URL: False
+Web containing Nidalee loading URL: True
+Web containing Nidalee loading IMG: True
+Found champion Nidalee loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Nidalee_OriginalLoading.jpg/revision/latest?cb=20200425021920
+Success loading champion Nidalee
+
+
+Loading Champion: Nocturne
+Web containing Nocturne loading URL: False
+Web containing Nocturne loading URL: False
+Web containing Nocturne loading URL: False
+Web containing Nocturne loading URL: True
+Web containing Nocturne loading IMG: True
+Found champion Nocturne loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Nocturne_OriginalLoading.jpg/revision/latest?cb=20200425022321
+Success loading champion Nocturne
+
+
+Loading Champion: Nunu & Willump
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Web containing Nunu & Willump loading URL: False
+Fail loading champion Nunu & Willump
+
+
+Loading Champion: Olaf
+Web containing Olaf loading URL: False
+Web containing Olaf loading URL: False
+Web containing Olaf loading URL: False
+Web containing Olaf loading URL: True
+Web containing Olaf loading IMG: True
+Found champion Olaf loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Olaf_OriginalLoading.jpg/revision/latest?cb=20200425023041
+Success loading champion Olaf
+
+
+Loading Champion: Orianna
+Web containing Orianna loading URL: False
+Web containing Orianna loading URL: False
+Web containing Orianna loading URL: False
+Web containing Orianna loading URL: True
+Web containing Orianna loading IMG: True
+Found champion Orianna loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Orianna_OriginalLoading.jpg/revision/latest?cb=20200425023320
+Success loading champion Orianna
+
+
+Loading Champion: Ornn
+Web containing Ornn loading URL: True
+Web containing Ornn loading IMG: True
+Found champion Ornn loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Ornn_OriginalLoading.jpg/revision/latest?cb=20200425023453
+Success loading champion Ornn
+
+
+Loading Champion: Pantheon
+Web containing Pantheon loading URL: False
+Web containing Pantheon loading URL: False
+Web containing Pantheon loading URL: False
+Web containing Pantheon loading URL: True
+Web containing Pantheon loading IMG: True
+Found champion Pantheon loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Pantheon_OriginalLoading.jpg/revision/latest?cb=20210517031833
+Success loading champion Pantheon
+
+
+Loading Champion: Poppy
+Web containing Poppy loading URL: True
+Web containing Poppy loading IMG: True
+Found champion Poppy loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Poppy_OriginalLoading.jpg/revision/latest?cb=20200425024309
+Success loading champion Poppy
+
+
+Loading Champion: Pyke
+Web containing Pyke loading URL: False
+Web containing Pyke loading URL: False
+Web containing Pyke loading URL: False
+Web containing Pyke loading URL: True
+Web containing Pyke loading IMG: True
+Found champion Pyke loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Pyke_OriginalLoading.jpg/revision/latest?cb=20180530063044
+Success loading champion Pyke
+
+
+Loading Champion: Qiyana
+Web containing Qiyana loading URL: True
+Web containing Qiyana loading IMG: True
+Found champion Qiyana loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Qiyana_OriginalLoading.jpg/revision/latest?cb=20210517032408
+Success loading champion Qiyana
+
+
+Loading Champion: Quinn
+Web containing Quinn loading URL: False
+Web containing Quinn loading URL: False
+Web containing Quinn loading URL: False
+Web containing Quinn loading URL: True
+Web containing Quinn loading IMG: True
+Found champion Quinn loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Quinn_OriginalLoading.jpg/revision/latest?cb=20200425024605
+Success loading champion Quinn
+
+
+Loading Champion: Rakan
+Web containing Rakan loading URL: False
+Web containing Rakan loading URL: True
+Web containing Rakan loading IMG: True
+Found champion Rakan loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Rakan_OriginalLoading.jpg/revision/latest?cb=20170819012305
+Success loading champion Rakan
+
+
+Loading Champion: Rammus
+Web containing Rammus loading URL: False
+Web containing Rammus loading URL: False
+Web containing Rammus loading URL: False
+Web containing Rammus loading URL: True
+Web containing Rammus loading IMG: True
+Found champion Rammus loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Rammus_OriginalLoading.jpg/revision/latest?cb=20200425025125
+Success loading champion Rammus
+
+
+Loading Champion: Rek'Sai
+Web containing Rek'Sai loading URL: False
+Web containing Rek'Sai loading URL: True
+Web containing Rek'Sai loading IMG: True
+Found champion Rek'Sai loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Rek%27Sai_OriginalLoading.jpg/revision/latest?cb=20200425025232
+Success loading champion Rek'Sai
+
+
+Loading Champion: Rell
+Web containing Rell loading URL: False
+Web containing Rell loading URL: False
+Web containing Rell loading URL: False
+Web containing Rell loading URL: True
+Web containing Rell loading IMG: True
+Found champion Rell loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Rell_OriginalLoading.jpg/revision/latest?cb=20210517032943
+Success loading champion Rell
+
+
+Loading Champion: Renata Glasc
+Web containing Renata Glasc loading URL: True
+Web containing Renata Glasc loading IMG: True
+Found champion Renata Glasc loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Renata_Glasc_OriginalLoading.jpg/revision/latest?cb=20220202013725
+Success loading champion Renata Glasc
+
+
+Loading Champion: Renekton
+Web containing Renekton loading URL: False
+Web containing Renekton loading URL: False
+Web containing Renekton loading URL: False
+Web containing Renekton loading URL: True
+Web containing Renekton loading IMG: True
+Found champion Renekton loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Renekton_OriginalLoading.jpg/revision/latest?cb=20200425025406
+Success loading champion Renekton
+
+
+Loading Champion: Rengar
+Web containing Rengar loading URL: True
+Web containing Rengar loading IMG: True
+Found champion Rengar loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/8a/Rengar_OriginalLoading.jpg/revision/latest?cb=20200425025957
+Success loading champion Rengar
+
+
+Loading Champion: Riven
+Web containing Riven loading URL: False
+Web containing Riven loading URL: False
+Web containing Riven loading URL: False
+Web containing Riven loading URL: True
+Web containing Riven loading IMG: True
+Found champion Riven loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Riven_OriginalLoading.jpg/revision/latest?cb=20200425030336
+Success loading champion Riven
+
+
+Loading Champion: Rumble
+Web containing Rumble loading URL: False
+Web containing Rumble loading URL: False
+Web containing Rumble loading URL: False
+Web containing Rumble loading URL: True
+Web containing Rumble loading IMG: True
+Found champion Rumble loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Rumble_OriginalLoading.jpg/revision/latest?cb=20200425030542
+Success loading champion Rumble
+
+
+Loading Champion: Ryze
+Web containing Ryze loading URL: False
+Web containing Ryze loading URL: False
+Web containing Ryze loading URL: False
+Web containing Ryze loading URL: True
+Web containing Ryze loading IMG: True
+Found champion Ryze loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Ryze_OriginalLoading.jpg/revision/latest?cb=20200425030718
+Success loading champion Ryze
+
+
+Loading Champion: Samira
+Web containing Samira loading URL: False
+Web containing Samira loading URL: True
+Web containing Samira loading IMG: True
+Found champion Samira loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Samira_OriginalLoading.jpg/revision/latest?cb=20210517033501
+Success loading champion Samira
+
+
+Loading Champion: Sejuani
+Web containing Sejuani loading URL: False
+Web containing Sejuani loading URL: False
+Web containing Sejuani loading URL: False
+Web containing Sejuani loading URL: True
+Web containing Sejuani loading IMG: True
+Found champion Sejuani loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Sejuani_OriginalLoading.jpg/revision/latest?cb=20200425031219
+Success loading champion Sejuani
+
+
+Loading Champion: Senna
+Web containing Senna loading URL: False
+Web containing Senna loading URL: False
+Web containing Senna loading URL: False
+Web containing Senna loading URL: True
+Web containing Senna loading IMG: True
+Found champion Senna loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/67/Senna_OriginalLoading.jpg/revision/latest?cb=20210517034920
+Success loading champion Senna
+
+
+Loading Champion: Seraphine
+Web containing Seraphine loading URL: True
+Web containing Seraphine loading IMG: True
+Found champion Seraphine loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Seraphine_OriginalLoading.jpg/revision/latest?cb=20210517035219
+Success loading champion Seraphine
+
+
+Loading Champion: Sett
+Web containing Sett loading URL: False
+Web containing Sett loading URL: False
+Web containing Sett loading URL: False
+Web containing Sett loading URL: True
+Web containing Sett loading IMG: True
+Found champion Sett loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Sett_OriginalLoading.jpg/revision/latest?cb=20210517035338
+Success loading champion Sett
+
+
+Loading Champion: Shaco
+Web containing Shaco loading URL: True
+Web containing Shaco loading IMG: True
+Found champion Shaco loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Shaco_OriginalLoading.jpg/revision/latest?cb=20200425031602
+Success loading champion Shaco
+
+
+Loading Champion: Shen
+Web containing Shen loading URL: False
+Web containing Shen loading URL: False
+Web containing Shen loading URL: False
+Web containing Shen loading URL: True
+Web containing Shen loading IMG: True
+Found champion Shen loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Shen_OriginalLoading.jpg/revision/latest?cb=20200425031824
+Success loading champion Shen
+
+
+Loading Champion: Shyvana
+Web containing Shyvana loading URL: False
+Web containing Shyvana loading URL: False
+Web containing Shyvana loading URL: False
+Web containing Shyvana loading URL: True
+Web containing Shyvana loading IMG: True
+Found champion Shyvana loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Shyvana_OriginalLoading.jpg/revision/latest?cb=20200425032230
+Success loading champion Shyvana
+
+
+Loading Champion: Singed
+Web containing Singed loading URL: True
+Web containing Singed loading IMG: True
+Found champion Singed loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Singed_OriginalLoading.jpg/revision/latest?cb=20200425032512
+Success loading champion Singed
+
+
+Loading Champion: Sion
+Web containing Sion loading URL: False
+Web containing Sion loading URL: False
+Web containing Sion loading URL: True
+Web containing Sion loading IMG: True
+Found champion Sion loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Sion_OriginalLoading.jpg/revision/latest?cb=20200425032817
+Success loading champion Sion
+
+
+Loading Champion: Sivir
+Web containing Sivir loading URL: True
+Web containing Sivir loading IMG: True
+Found champion Sivir loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Sivir_OriginalLoading.jpg/revision/latest?cb=20200425033021
+Success loading champion Sivir
+
+
+Loading Champion: Skarner
+Web containing Skarner loading URL: True
+Web containing Skarner loading IMG: True
+Found champion Skarner loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Skarner_OriginalLoading.jpg/revision/latest?cb=20200425033451
+Success loading champion Skarner
+
+
+Loading Champion: Sona
+Web containing Sona loading URL: False
+Web containing Sona loading URL: False
+Web containing Sona loading URL: False
+Web containing Sona loading URL: True
+Web containing Sona loading IMG: True
+Found champion Sona loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Sona_OriginalLoading.jpg/revision/latest?cb=20200425033707
+Success loading champion Sona
+
+
+Loading Champion: Soraka
+Web containing Soraka loading URL: False
+Web containing Soraka loading URL: False
+Web containing Soraka loading URL: False
+Web containing Soraka loading URL: True
+Web containing Soraka loading IMG: True
+Found champion Soraka loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Soraka_OriginalLoading.jpg/revision/latest?cb=20200425034023
+Success loading champion Soraka
+
+
+Loading Champion: Swain
+Web containing Swain loading URL: True
+Web containing Swain loading IMG: True
+Found champion Swain loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Swain_OriginalLoading.jpg/revision/latest?cb=20200425034323
+Success loading champion Swain
+
+
+Loading Champion: Sylas
+Web containing Sylas loading URL: False
+Web containing Sylas loading URL: False
+Web containing Sylas loading URL: True
+Web containing Sylas loading IMG: True
+Found champion Sylas loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Sylas_OriginalLoading.jpg/revision/latest?cb=20210517040622
+Success loading champion Sylas
+
+
+Loading Champion: Syndra
+Web containing Syndra loading URL: True
+Web containing Syndra loading IMG: True
+Found champion Syndra loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Syndra_OriginalLoading.jpg/revision/latest?cb=20200425034506
+Success loading champion Syndra
+
+
+Loading Champion: Tahm Kench
+Web containing Tahm Kench loading URL: False
+Web containing Tahm Kench loading URL: True
+Web containing Tahm Kench loading IMG: True
+Found champion Tahm Kench loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Tahm_Kench_OriginalLoading.jpg/revision/latest?cb=20200425034712
+Success loading champion Tahm Kench
+
+
+Loading Champion: Taliyah
+Web containing Taliyah loading URL: False
+Web containing Taliyah loading URL: False
+Web containing Taliyah loading URL: True
+Web containing Taliyah loading IMG: True
+Found champion Taliyah loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Taliyah_OriginalLoading.jpg/revision/latest?cb=20200425034856
+Success loading champion Taliyah
+
+
+Loading Champion: Talon
+Web containing Talon loading URL: False
+Web containing Talon loading URL: False
+Web containing Talon loading URL: False
+Web containing Talon loading URL: True
+Web containing Talon loading IMG: True
+Found champion Talon loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Talon_OriginalLoading.jpg/revision/latest?cb=20200425035048
+Success loading champion Talon
+
+
+Loading Champion: Taric
+Web containing Taric loading URL: False
+Web containing Taric loading URL: False
+Web containing Taric loading URL: False
+Web containing Taric loading URL: True
+Web containing Taric loading IMG: True
+Found champion Taric loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Taric_OriginalLoading.jpg/revision/latest?cb=20200425035506
+Success loading champion Taric
+
+
+Loading Champion: Teemo
+Web containing Teemo loading URL: False
+Web containing Teemo loading URL: True
+Web containing Teemo loading IMG: True
+Found champion Teemo loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Teemo_OriginalLoading.jpg/revision/latest?cb=20200425145127
+Success loading champion Teemo
+
+
+Loading Champion: Thresh
+Web containing Thresh loading URL: False
+Web containing Thresh loading URL: False
+Web containing Thresh loading URL: False
+Web containing Thresh loading URL: True
+Web containing Thresh loading IMG: True
+Found champion Thresh loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Thresh_OriginalLoading.jpg/revision/latest?cb=20200425145434
+Success loading champion Thresh
+
+
+Loading Champion: Tristana
+Web containing Tristana loading URL: False
+Web containing Tristana loading URL: False
+Web containing Tristana loading URL: False
+Web containing Tristana loading URL: False
+Web containing Tristana loading URL: True
+Web containing Tristana loading IMG: True
+Found champion Tristana loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Tristana_OriginalLoading.jpg/revision/latest?cb=20200425145811
+Success loading champion Tristana
+
+
+Loading Champion: Trundle
+Web containing Trundle loading URL: False
+Web containing Trundle loading URL: False
+Web containing Trundle loading URL: False
+Web containing Trundle loading URL: True
+Web containing Trundle loading IMG: True
+Found champion Trundle loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Trundle_OriginalLoading.jpg/revision/latest?cb=20200425150048
+Success loading champion Trundle
+
+
+Loading Champion: Tryndamere
+Web containing Tryndamere loading URL: False
+Web containing Tryndamere loading URL: False
+Web containing Tryndamere loading URL: False
+Web containing Tryndamere loading URL: True
+Web containing Tryndamere loading IMG: True
+Found champion Tryndamere loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Tryndamere_OriginalLoading.jpg/revision/latest?cb=20200425150427
+Success loading champion Tryndamere
+
+
+Loading Champion: Twisted Fate
+Web containing Twisted Fate loading URL: False
+Web containing Twisted Fate loading URL: True
+Web containing Twisted Fate loading IMG: True
+Found champion Twisted Fate loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Twisted_Fate_OriginalLoading.jpg/revision/latest?cb=20200425150752
+Success loading champion Twisted Fate
+
+
+Loading Champion: Twitch
+Web containing Twitch loading URL: False
+Web containing Twitch loading URL: False
+Web containing Twitch loading URL: True
+Web containing Twitch loading IMG: True
+Found champion Twitch loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Twitch_OriginalLoading.jpg/revision/latest?cb=20200425151159
+Success loading champion Twitch
+
+
+Loading Champion: Udyr
+Web containing Udyr loading URL: False
+Web containing Udyr loading URL: True
+Web containing Udyr loading IMG: True
+Found champion Udyr loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Udyr_OriginalLoading.jpg/revision/latest?cb=20200425151501
+Success loading champion Udyr
+
+
+Loading Champion: Urgot
+Web containing Urgot loading URL: False
+Web containing Urgot loading URL: False
+Web containing Urgot loading URL: True
+Web containing Urgot loading IMG: True
+Found champion Urgot loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Urgot_OriginalLoading.jpg/revision/latest?cb=20170915132045
+Success loading champion Urgot
+
+
+Loading Champion: Varus
+Web containing Varus loading URL: False
+Web containing Varus loading URL: False
+Web containing Varus loading URL: False
+Web containing Varus loading URL: True
+Web containing Varus loading IMG: True
+Found champion Varus loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Varus_OriginalLoading.jpg/revision/latest?cb=20200425151934
+Success loading champion Varus
+
+
+Loading Champion: Vayne
+Web containing Vayne loading URL: False
+Web containing Vayne loading URL: True
+Web containing Vayne loading IMG: True
+Found champion Vayne loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Vayne_OriginalLoading.jpg/revision/latest?cb=20200425152206
+Success loading champion Vayne
+
+
+Loading Champion: Veigar
+Web containing Veigar loading URL: False
+Web containing Veigar loading URL: False
+Web containing Veigar loading URL: False
+Web containing Veigar loading URL: True
+Web containing Veigar loading IMG: True
+Found champion Veigar loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Veigar_OriginalLoading.jpg/revision/latest?cb=20200425152605
+Success loading champion Veigar
+
+
+Loading Champion: Vel'Koz
+Web containing Vel'Koz loading URL: True
+Web containing Vel'Koz loading IMG: True
+Found champion Vel'Koz loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Vel%27Koz_OriginalLoading.jpg/revision/latest?cb=20200425152859
+Success loading champion Vel'Koz
+
+
+Loading Champion: Vex
+Web containing Vex loading URL: False
+Web containing Vex loading URL: False
+Web containing Vex loading URL: False
+Web containing Vex loading URL: True
+Web containing Vex loading IMG: True
+Found champion Vex loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Vex_OriginalLoading.jpg/revision/latest?cb=20210908195154
+Success loading champion Vex
+
+
+Loading Champion: Vi
+Web containing Vi loading URL: False
+Web containing Vi loading URL: True
+Web containing Vi loading IMG: True
+Found champion Vi loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Vi_OriginalLoading.jpg/revision/latest?cb=20200425153121
+Success loading champion Vi
+
+
+Loading Champion: Viego
+Web containing Viego loading URL: False
+Web containing Viego loading URL: False
+Web containing Viego loading URL: False
+Web containing Viego loading URL: True
+Web containing Viego loading IMG: True
+Found champion Viego loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Viego_OriginalLoading.jpg/revision/latest?cb=20210517042539
+Success loading champion Viego
+
+
+Loading Champion: Viktor
+Web containing Viktor loading URL: False
+Web containing Viktor loading URL: False
+Web containing Viktor loading URL: False
+Web containing Viktor loading URL: True
+Web containing Viktor loading IMG: True
+Found champion Viktor loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Viktor_OriginalLoading.jpg/revision/latest?cb=20200425153553
+Success loading champion Viktor
+
+
+Loading Champion: Vladimir
+Web containing Vladimir loading URL: True
+Web containing Vladimir loading IMG: True
+Found champion Vladimir loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/3a/Vladimir_OriginalLoading.jpg/revision/latest?cb=20200425154000
+Success loading champion Vladimir
+
+
+Loading Champion: Volibear
+Web containing Volibear loading URL: False
+Web containing Volibear loading URL: False
+Web containing Volibear loading URL: False
+Web containing Volibear loading URL: True
+Web containing Volibear loading IMG: True
+Found champion Volibear loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Volibear_OriginalLoading.jpg/revision/latest?cb=20210517042835
+Success loading champion Volibear
+
+
+Loading Champion: Warwick
+Web containing Warwick loading URL: True
+Web containing Warwick loading IMG: True
+Found champion Warwick loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Warwick_OriginalLoading.jpg/revision/latest?cb=20200425154555
+Success loading champion Warwick
+
+
+Loading Champion: Wukong
+Web containing Wukong loading URL: False
+Web containing Wukong loading URL: False
+Web containing Wukong loading URL: False
+Web containing Wukong loading URL: True
+Web containing Wukong loading IMG: True
+Found champion Wukong loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Wukong_OriginalLoading.jpg/revision/latest?cb=20200425154852
+Success loading champion Wukong
+
+
+Loading Champion: Xayah
+Web containing Xayah loading URL: True
+Web containing Xayah loading IMG: True
+Found champion Xayah loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Xayah_OriginalLoading.jpg/revision/latest?cb=20200425155057
+Success loading champion Xayah
+
+
+Loading Champion: Xerath
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: False
+Web containing Xerath loading URL: True
+Web containing Xerath loading IMG: True
+Found champion Xerath loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Xerath_OriginalLoading.jpg/revision/latest?cb=20200425155256
+Success loading champion Xerath
+
+
+Loading Champion: Xin Zhao
+Web containing Xin Zhao loading URL: False
+Web containing Xin Zhao loading URL: True
+Web containing Xin Zhao loading IMG: True
+Found champion Xin Zhao loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Xin_Zhao_OriginalLoading.jpg/revision/latest?cb=20200425155511
+Success loading champion Xin Zhao
+
+
+Loading Champion: Yasuo
+Web containing Yasuo loading URL: True
+Web containing Yasuo loading IMG: True
+Found champion Yasuo loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Yasuo_OriginalLoading.jpg/revision/latest?cb=20200425155814
+Success loading champion Yasuo
+
+
+Loading Champion: Yone
+Web containing Yone loading URL: False
+Web containing Yone loading URL: True
+Web containing Yone loading IMG: True
+Found champion Yone loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Yone_OriginalLoading.jpg/revision/latest?cb=20200724195306
+Success loading champion Yone
+
+
+Loading Champion: Yorick
+Web containing Yorick loading URL: False
+Web containing Yorick loading URL: False
+Web containing Yorick loading URL: True
+Web containing Yorick loading IMG: True
+Found champion Yorick loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Yorick_OriginalLoading.jpg/revision/latest?cb=20200425155920
+Success loading champion Yorick
+
+
+Loading Champion: Yuumi
+Web containing Yuumi loading URL: False
+Web containing Yuumi loading URL: False
+Web containing Yuumi loading URL: False
+Web containing Yuumi loading URL: True
+Web containing Yuumi loading IMG: True
+Found champion Yuumi loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Yuumi_OriginalLoading.jpg/revision/latest?cb=20210517043849
+Success loading champion Yuumi
+
+
+Loading Champion: Zac
+Web containing Zac loading URL: True
+Web containing Zac loading IMG: True
+Found champion Zac loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Zac_OriginalLoading.jpg/revision/latest?cb=20200425160045
+Success loading champion Zac
+
+
+Loading Champion: Zed
+Web containing Zed loading URL: False
+Web containing Zed loading URL: False
+Web containing Zed loading URL: True
+Web containing Zed loading IMG: True
+Found champion Zed loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Zed_OriginalLoading.jpg/revision/latest?cb=20200425160346
+Success loading champion Zed
+
+
+Loading Champion: Zeri
+Web containing Zeri loading URL: False
+Web containing Zeri loading URL: False
+Web containing Zeri loading URL: False
+Web containing Zeri loading URL: True
+Web containing Zeri loading IMG: True
+Found champion Zeri loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Zeri_OriginalLoading.jpg/revision/latest?cb=20220125163840
+Success loading champion Zeri
+
+
+Loading Champion: Ziggs
+Web containing Ziggs loading URL: True
+Web containing Ziggs loading IMG: True
+Found champion Ziggs loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/6/68/Ziggs_OriginalLoading.jpg/revision/latest?cb=20200425160830
+Success loading champion Ziggs
+
+
+Loading Champion: Zilean
+Web containing Zilean loading URL: False
+Web containing Zilean loading URL: True
+Web containing Zilean loading IMG: True
+Found champion Zilean loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Zilean_OriginalLoading.jpg/revision/latest?cb=20200425161112
+Success loading champion Zilean
+
+
+Loading Champion: Zoe
+Web containing Zoe loading URL: False
+Web containing Zoe loading URL: False
+Web containing Zoe loading URL: True
+Web containing Zoe loading IMG: True
+Found champion Zoe loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Zoe_OriginalLoading.jpg/revision/latest?cb=20200425161250
+Success loading champion Zoe
+
+
+Loading Champion: Zyra
+Web containing Zyra loading URL: False
+Web containing Zyra loading URL: True
+Web containing Zyra loading IMG: True
+Found champion Zyra loading URL: https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Zyra_OriginalLoading.jpg/revision/latest?cb=20200425161433
+Success loading champion Zyra
+
+

@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Secular+One&display=swap');
+
+@import url("page1.css");
+@import url("page2.css");
+
+
+:root {
+    --scale: 1;
+
+    --card-size: calc(300px * var(--scale));
+
+    --border-size: calc(2px * var(--scale));
+
+    --top-size: calc(40px * var(--scale));
+    --bot-size: calc(260px * var(--scale));
+
+    --pg1-btn-size: calc(60px * var(--scale));
+    --pg1-wrt-size: calc(150px * var(--scale));
+    --pg1-lan-size: calc(50px * var(--scale));
+
+    --color-txt: #f0e6d2;
+
+    --color-winb: #0b42b8;
+    --color-loseb: #863041;
+
+    --color-1: #18141f;
+    --color-2: #1E282D; 
+    --color-3: #C8A459;
+    --color-4: #CDBE91;
+    --color-5: #5f491e;
+    --color-6: #1a1c21;
+}
+
+
+
+* {
+    /* global */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    /* block user select */
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    user-select:none;
+}
+
+
+
+.df {
+    display: flex;
+}
+.aic {
+    align-items: center;
+}
+.jcc {
+    justify-content: center;
+}
+.tc {
+    text-align: center;
+}
+
+
+
+body {
+    width: calc(var(--card-size)*2 /3);
+    height:var(--card-size);
+    min-width: calc(var(--card-size)*2 /3);
+    min-height: var(--card-size);
+    overflow: hidden;
+    background: #fff;
+}
+
+#card {
+    padding: 0 calc(var(--card-size)*0.2 /3);
+    width: 100%;
+    height: 100%;
+    background: var(--color-1);
+}
+
+.card-page {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.top {
+    position: relative;
+    justify-content: space-between;
+    width: 100%;
+    height: var(--top-size);
+}
+.bot {
+    width: 100%;
+    height: var(--bot-size);
+}
+.top .search {
+    padding: var(--border-size) 0;
+    width: calc(100% - var(--top-size)*0.8);
+    height: calc(var(--top-size)/2 + var(--border-size)*2);
+    border: var(--border-size) solid var(--color-3);
+}
+.top .search .icon {
+    width: calc(var(--top-size)/2);
+    height: calc(var(--top-size)/2);
+    background: var(--color-2);
+}
+.top .search .icon > img {
+    max-width: calc(var(--top-size)/3);
+    max-height: calc(var(--top-size)/3);
+    filter: invert(100%) sepia(0%) saturate(17%) hue-rotate(263deg) brightness(105%) contrast(104%);
+}
+.top .search > input {
+    width: calc(100% - var(--top-size)/2);
+    height: calc(var(--top-size)/2);
+    border: none;
+    outline: none;
+    color: #fff;
+    background: var(--color-2);
+}
+.top .setting {
+    cursor: pointer;
+    width: calc(var(--top-size)*2/3);
+    height: calc(var(--top-size)*2/3);
+    border: var(--border-size) solid var(--color-3);
+    border-radius: 50%;
+    background: var(--color-2);
+}
+.top .setting > img {
+    max-height: calc(var(--top-size)*0.4);
+    filter: invert(84%) sepia(19%) saturate(491%) hue-rotate(7deg) brightness(90%) contrast(87%);
+}
+
+
+/* page 1 */

@@ -1,0 +1,25 @@
+https://127.0.0.1:2554/riotclient/auth-token
+https://127.0.0.1:2554/Help?target=GetLolSummonerV1Summoners
+https://127.0.0.1:2554/lol-summoner/v1/current-summoner
+https://127.0.0.1:2554/lol-summoner/v1/current-summoner
+https://127.0.0.1:2554/lol-gameflow/v1/gameflow-metadata/player-status
+https://127.0.0.1:2554/lol-champ-select/v1/session
+https://127.0.0.1:2554/lol-match-history/v1/recently-played-summoners
+
+https://127.0.0.1:2554/lol-ranked/v1/ranked-stats/'+currentData["puuid"]
+https://127.0.0.1:2554/lol-ranked/v1/ranked-stats/'+currentData["puuid"]
+https://127.0.0.1:2554/lol-summoner/v1/summoners/" + json["myTeam"][i]["summonerId"]
+https://127.0.0.1:2554/lol-collections/v1/inventories/'+teamData["player"+i]["summonerId"]+'/champion-mastery'
+https://127.0.0.1:2554/lol-match-history/v1/products/lol/'+teamData["player"+i]["puuid"]+'/matches?begIndex=&endIndex=10'
+https://127.0.0.1:2554/lol-ranked/v1/ranked-stats/'+teamData["player"+i]["puuid"]
+https://127.0.0.1:2554/lol-career-stats/v1/summoner-stats/'+teamData["player"+i]["puuid"]+'/'+currentSeason+'/rank5solo/'+temp[a]
+https://127.0.0.1:2554/lol-summoner/v1/summoners?name='+enemyName0
+https://127.0.0.1:2554/lol-summoner/v1/summoners?name='+enemyName1
+https://127.0.0.1:2554/lol-summoner/v1/summoners?name='+enemyName2
+https://127.0.0.1:2554/lol-summoner/v1/summoners?name='+enemyName3
+https://127.0.0.1:2554/lol-summoner/v1/summoners?name='+enemyName4
+https://127.0.0.1:2554/lol-summoner/v1/summoners/" + teamData["player"+x]["summonerId"]
+https://127.0.0.1:2554/lol-collections/v1/inventories/'+teamData["player"+x]["summonerId"]+'/champion-mastery'
+https://127.0.0.1:2554/lol-match-history/v1/products/lol/'+teamData["player"+x]["puuid"]+'/matches?begIndex=&endIndex=10'
+https://127.0.0.1:2554/lol-ranked/v1/ranked-stats/'+teamData["player"+x]["puuid"]
+https://127.0.0.1:2554/lol-career-stats/v1/summoner-stats/'+teamData["player"+x]["puuid"]+'/'+currentSeason+'/rank5solo/'+temp[a]

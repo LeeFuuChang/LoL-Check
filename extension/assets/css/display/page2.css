@@ -1,0 +1,161 @@
+@keyframes showLaneDetail {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+
+.winrate {
+    flex-direction: column;
+    padding: calc(var(--banner-size)*0.1);
+    width: calc(var(--winrate-size)*2);
+    height: var(--winrate-size);
+}
+.winrate:first-child {
+    margin-top: var(--winrate-first-margin);
+}
+.winrate .winrate-persent {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    background: conic-gradient(
+        var(--color-3-2) 120deg,
+        var(--color-3-4) 120deg
+    );
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: var(--color-txt);
+    transition: 0.1s;
+}
+.winrate .winrate-persent * {
+    font-family: inherit;
+    font-weight: inherit;
+    color: inherit;
+    transition: inherit;
+}
+.winrate .winrate-persent::before {
+    content: "";
+    width: 86%;
+    height: 86%;
+    border-radius: 50%;
+    background: linear-gradient(to bottom, 
+        var(--color-2-2), 
+        var(--color-2-3)
+    );
+}
+.winrate .winrate-persent .winrate-info {
+    position: absolute;
+    z-index: 1000;
+    flex-direction: column;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.winrate .winrate-persent:hover .winrate-info {
+    top: 45%;
+}
+.winrate .winrate-persent .winrate-info .winrate-info-WR {
+    width: max-content;
+    font-size: calc(var(--banner-size)*0.3);
+}
+.winrate .winrate-persent .winrate-info .winrate-info-WR span {
+    font-size: calc(var(--banner-size)*0.15);
+}
+.winrate .winrate-persent:hover .winrate-info .winrate-info-WR {
+    font-size: calc(var(--banner-size)*0.4);
+}
+.winrate .winrate-persent:hover .winrate-info .winrate-info-WR span {
+    font-size: calc(var(--banner-size)*0.15);
+}
+.winrate .winrate-persent .winrate-info .winrate-info-WL {
+    width: max-content;
+    font-size: calc(var(--banner-size)*0.1);
+}
+.winrate .winrate-persent .winrate-info .winrate-info-WL span {
+    margin: 0 calc(var(--banner-size)*0.05);
+}
+.winrate .winrate-persent:hover .winrate-info .winrate-info-WL {
+    font-size: calc(var(--banner-size)*0.125);
+}
+.winrate .winrate-title {
+    margin-top: calc(var(--banner-size)*0.05);
+    font-size: calc(var(--banner-size)*0.15);
+    color: var(--color-txt);
+}
+
+
+
+.winrate-lane {
+    position: relative;
+    justify-content: space-around;
+    padding: 0 calc(var(--winrate-lane-size)*0.5);
+    width: 100%;
+    height: var(--winrate-lane-size);
+}
+.winrate-lane .winrate-lane-type {
+    position: relative;
+    margin: 0 calc(var(--winrate-lane-size)*0.5);
+    flex-grow: 1;
+    height: 50%;
+    cursor: pointer;
+}
+.winrate-lane .winrate-lane-type img {
+    max-width: 75%;
+    max-height: 75%;
+}
+.winrate-lane-type .winrate-lane-detail {
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    bottom: calc( var(--banner-size)*0.4);
+    padding: calc(var(--winrate-lane-size)*0.5) calc(var(--winrate-lane-size)*1);
+    width: calc( var(--banner-size)*1);
+    height: calc( var(--banner-size)*0.4);
+    border: calc(2px * var(--scale)) solid var(--color-4-2);
+    background: var(--color-4-1);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: var(--color-txt);
+    transition: 0.1s;
+}
+.winrate-lane-type .winrate-lane-detail::before {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)/-8 - var(--banner-border)*2);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--banner-size)/8 + var(--banner-border)) solid transparent;
+    border-right: calc(var(--banner-size)/8 + var(--banner-border)) solid transparent;
+    border-top: calc(var(--banner-size)/8 + var(--banner-border)) solid var(--color-4-2);
+}
+.winrate-lane-type .winrate-lane-detail::after {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)/-8);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--banner-size)/8) solid transparent;
+    border-right: calc(var(--banner-size)/8) solid transparent;
+    border-top: calc(var(--banner-size)/8) solid var(--color-4-1);
+}
+.winrate-lane-type:hover .winrate-lane-detail {
+    display: flex !important;
+    animation: showLaneDetail 0.3s linear forwards;
+}
+.winrate-lane-type .winrate-lane-detail * {
+    font-family: inherit;
+    font-weight: inherit;
+    color: inherit;
+    transition: inherit;
+}
+.winrate-lane-type .winrate-lane-detail .lane-detail-WL span {
+    margin: 0 calc(var(--banner-size)*0.05);
+}

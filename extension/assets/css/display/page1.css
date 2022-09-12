@@ -1,0 +1,378 @@
+@keyframes showRankDetail {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes showMasteryDetail {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+@media(max-width: 116em) {
+    .banner-container:first-child .rank .rank-detail {
+        left: calc(var(--tier-image-size)/2 - var(--banner-size));
+    }
+    .banner-container:first-child .rank .rank-detail::before {
+        left: calc(var(--banner-size) - var(--banner-size)/6 - var(--banner-border));
+    }
+    .banner-container:first-child .rank .rank-detail::after {
+        left: calc(var(--banner-size) - var(--banner-size)/6);
+    }
+    .banner-container:last-child .rank .rank-detail {
+        right: calc(var(--tier-image-size)/2 - var(--banner-size));
+    }
+    .banner-container:last-child .rank .rank-detail::before {
+        right: calc(var(--banner-size) - var(--banner-size)/6 - var(--banner-border));
+    }
+    .banner-container:last-child .rank .rank-detail::after {
+        right: calc(var(--banner-size) - var(--banner-size)/6);
+    }
+}
+
+
+
+
+.banner-page-0 {
+    padding-top: calc(var(--banner-size)/3);
+}
+
+
+.rank {
+    position: relative;
+    width: 100%;
+    height: var(--tier-image-size);
+    max-height: var(--tier-image-size);
+    pointer-events: none;
+}
+.rank .rank-container {
+    position: relative;
+    width: min-content;
+    height: 100%;
+    cursor: pointer;
+    pointer-events: auto;
+}
+.rank .rank-container img {
+    height: 100%;
+    min-height: 100%;
+}
+.rank .rank-container h2 {
+    position: absolute;
+    bottom: 0;
+    font-weight: 400;
+    font-size: calc(var(--banner-size)*0.15);
+    color: var(--color-txt);
+    font-family: 'Secular One', sans-serif;
+    z-index: 1000;
+    background: transparent;
+}
+.rank .rank-detail {
+    position: absolute;
+    bottom: calc(var(--tier-image-size)*0.9);
+    width: calc(var(--banner-size)*5);
+    height: calc(var(--banner-size)*2);
+    background: var(--color-4-1);
+    border: var(--banner-border) solid var(--color-4-2);
+    cursor: default;
+    display: none;
+}
+.rank:hover .rank-detail {
+    display: flex !important;
+    animation: showRankDetail 0.3s linear forwards;
+}
+.rank .rank-detail::before {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)/-6 - var(--banner-border)*2);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--banner-size)/6 + var(--banner-border)) solid transparent;
+    border-right: calc(var(--banner-size)/6 + var(--banner-border)) solid transparent;
+    border-top: calc(var(--banner-size)/6 + var(--banner-border)) solid var(--color-4-2);
+}
+.rank .rank-detail::after {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)/-6);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--banner-size)/6) solid transparent;
+    border-right: calc(var(--banner-size)/6) solid transparent;
+    border-top: calc(var(--banner-size)/6) solid var(--color-4-1);
+}
+.rank .rank-detail > div {
+    position: relative;
+    flex-grow: 1;
+    height: 100%;
+}
+.rank .rank-detail > div .detail-top {
+    position: absolute;
+    top: 0;
+    max-height: var(--tier-image-size);
+}
+.rank .rank-detail > div .detail-bottom {
+    position: absolute;
+    flex-direction: column;
+    bottom: 0;
+}
+.rank .rank-detail > div .detail-bottom h3 {
+    flex-grow: 1;
+    margin: calc(var(--banner-size)*0.01) 0;
+}
+.rank .rank-detail > div .detail-bottom h3:nth-child(1) {
+    color: var(--color-4-3);
+    font-size: calc(var(--banner-size)*0.125);
+    font-family: 'Inter', sans-serif;
+}
+.rank .rank-detail > div .detail-bottom h3:nth-child(2) {
+    color: var(--color-txt);
+    font-size: calc(var(--banner-size)*0.15);
+    font-family: 'Inter', sans-serif;
+}
+.rank .rank-detail > div .detail-bottom h3:nth-child(3) {
+    color: var(--color-4-4);
+    font-size: calc(var(--banner-size)*0.11);
+}
+.rank .rank-detail > div .detail-bottom h3:nth-child(3) div {
+    height: min-content;
+    padding: 0 calc(var(--banner-size)*0.05);
+    font-size: calc(var(--banner-size)*0.11);
+    font-family: 'Inter', sans-serif;
+}
+.rank .rank-detail > div .detail-bottom h3:nth-child(3) div:nth-child(2) {
+    border-left: var(--banner-border) solid var(--color-4-4);
+    border-right: var(--banner-border) solid var(--color-4-4);
+}
+
+
+
+.account {
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    height: calc(var(--banner-size)/2.25);
+}
+.account .username {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: calc(var(--banner-size)*0.24);
+    font-weight: 700;
+    font-size: calc(var(--banner-size)*0.2);
+    color: var(--color-txt);
+    z-index: 1000;
+    font-family: 'Inter', sans-serif;
+    background: transparent;
+}
+.account .level {
+    position: absolute;
+    bottom: 0;
+    width: calc(var(--banner-size)/2.85);
+    height: calc(var(--banner-size)*0.14);
+    background: var(--color-3-1);
+}
+.account .level::before {
+    content: "";
+    position: absolute;
+	top: 0;
+    left: calc(var(--banner-size)*-0.05);
+    width: 0;
+    height: 0;
+    border-top: calc(var(--banner-size)*0.07) solid transparent;
+    border-bottom: calc(var(--banner-size)*0.07) solid transparent;
+    border-right: calc(var(--banner-size)*0.05) solid var(--color-3-1);
+}
+.account .level::after {
+    content: "";
+    position: absolute;
+	top: 0;
+    right: calc(var(--banner-size)*-0.05);
+    width: 0;
+    height: 0;
+    border-top: calc(var(--banner-size)*0.07) solid transparent;
+    border-bottom: calc(var(--banner-size)*0.07) solid transparent;
+    border-left: calc(var(--banner-size)*0.05) solid var(--color-3-1);
+}
+.account .level .progress {
+    position: relative;
+    display: grid;
+    place-items: center;
+    transform: rotate(180deg);
+    left: calc(var(--banner-size)*0.01);
+    width: calc(var(--banner-size)*0.11);
+    height: calc(var(--banner-size)*0.11);
+    border-radius: 50%;
+    z-index: 1000;
+    background: conic-gradient(var(--color-3-2) 120deg, var(--color-3-3) 120deg);
+}
+.account .level .progress::before {
+    content: "";
+    width: calc(var(--banner-size)*0.075);
+    height: calc(var(--banner-size)*0.075);
+    border-radius: 50%;
+    background: var(--color-3-1);
+}
+.account .level span {
+    position: relative;
+    flex-grow: 1;
+    font-weight: 500;
+    z-index: 1000;
+    left: calc(var(--banner-size)*0.05);
+    letter-spacing: calc(var(--banner-size)*0.0025);
+    font-size: calc(var(--banner-size)*0.095);
+    color: var(--color-txt);
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+.mastery {
+    position: relative;
+    margin: calc(var(--mastery-champion-size)/2.5) 0;
+    padding: 0 calc(var(--mastery-champion-size)/2);
+    width: 100%;
+    height: var(--mastery-champion-size);
+    pointer-events: none;
+}
+.mastery .mastery-display {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    justify-content: space-around;
+    pointer-events: auto;
+}
+.mastery .mastery-display .mastery-champion {
+    position: relative;
+    height: 100%;
+    flex-grow: 1;
+}
+.mastery .mastery-display .mastery-champion .mastery-champion-icon {
+    position: absolute;
+    top: 0;
+    flex-direction: column;
+    width: var(--mastery-champion-icon-size);
+}
+.mastery .mastery-display .mastery-champion .mastery-champion-icon > img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.mastery .mastery-display .mastery-champion .mastery-champion-icon .mastery-champion-mastery {
+    position: absolute;
+    bottom: calc(var(--mastery-champion-mastery-size)/3 *-2);
+    flex-direction: column;
+    width: var(--mastery-champion-mastery-size);
+    height: var(--mastery-champion-mastery-size);
+}
+.mastery .mastery-display .mastery-champion .mastery-champion-icon .mastery-champion-mastery > img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.mastery .mastery-detail {
+    z-index: 2000;
+    position: absolute;
+    padding: calc(var(--banner-size)*0.125);
+    bottom: calc(var(--banner-size)*0.7);
+    width: calc(var(--banner-size)*4);
+    height: calc(var(--banner-size)*1.85);
+    background: var(--color-4-1);
+    border: var(--banner-border) solid var(--color-4-2);
+    cursor: default;
+    display: none;
+}
+.mastery:hover .mastery-detail {
+    display: flex !important;
+    animation: showMasteryDetail 0.3s linear forwards;
+}
+.mastery .mastery-detail .mastery-detail-type {
+    position: relative;
+    flex-direction: column;
+    height: 100%;
+    flex-grow: 1;
+}
+.mastery .mastery-detail-type .mastery-champion-icon {
+    position: absolute;
+    top: 0;
+    flex-direction: column;
+    width: calc(var(--mastery-champion-icon-size)*2);
+}
+.mastery .mastery-detail-type .mastery-champion-icon > img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.mastery .mastery-detail-type .mastery-champion-icon .mastery-champion-mastery {
+    position: absolute;
+    bottom: calc(var(--mastery-champion-mastery-size)/3 *-4);
+    flex-direction: column;
+    width: calc(var(--mastery-champion-mastery-size)*2);
+    height: calc(var(--mastery-champion-mastery-size)*2);
+}
+.mastery .mastery-detail-type .mastery-champion-icon .mastery-champion-mastery > img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.mastery .mastery-detail-type .mastery-detail-stats {
+    position: absolute;
+    flex-direction: column;
+    padding: 0 calc(var(--banner-size)*0.15);
+    bottom: 0;
+    width: 100%;
+    height: min-content;
+}
+.mastery .mastery-detail-type .mastery-detail-champ {
+    width: 100%;
+    flex-grow: 1;
+    padding: calc(var(--banner-size)*0.025);
+    margin-bottom: calc(var(--banner-size)*0.025);
+    border-bottom: calc(2px * var(--scale)) solid var(--color-5-2);
+}
+.mastery .mastery-detail-type .mastery-detail-champ > h3 {
+    width: 100%;
+    color: var(--color-5-1);
+    font-size: calc(var(--banner-size)*0.16);
+    font-family: 'Inter', sans-serif;
+}
+.mastery .mastery-detail-type .mastery-detail-point {
+    width: max-content;
+    flex-grow: 1;
+    margin-bottom: calc(var(--banner-size)*0.005);
+}
+.mastery .mastery-detail-type .mastery-detail-point .mastery-detail-point-icon {
+    width: calc(var(--banner-size)*0.125);
+    height: calc(var(--banner-size)*0.125);
+    margin-right: calc(var(--banner-size)*0.025);
+}
+.mastery .mastery-detail-type .mastery-detail-point .mastery-detail-point-icon > img {
+    width: 100%;
+    height: 100%;
+}
+.mastery .mastery-detail-type .mastery-detail-point > h3 {
+    height: 100%;
+    color: var(--color-5-3);
+    font-size: calc(var(--banner-size)*0.11);
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+.mastery .mastery-detail-type .mastery-detail-grade {
+    width: 100%;
+    flex-grow: 1;
+}
+.mastery .mastery-detail-type .mastery-detail-grade > h3 {
+    color: var(--color-5-3);
+    font-size: calc(var(--banner-size)*0.11);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}

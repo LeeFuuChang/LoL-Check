@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Secular+One&display=swap');
+
+@import url("page1.css");
+@import url("page2.css");
+@import url("page3.css");
+
+
+:root {
+    --scale: 1;
+
+    --banner-size: calc(128px * var(--scale));
+    --banner-border: calc( var(--banner-size)/48 * var(--scale));
+
+    --tier-image-size: calc(200px * var(--scale));
+
+    --mastery-champion-icon-size: calc(var(--banner-size)/3);
+    --mastery-champion-mastery-size: calc(var(--banner-size)/15 *4);
+    --mastery-champion-size: calc(var(--banner-size)/45 *23);
+
+    --winrate-first-margin: calc(var(--banner-size)/4);
+    --winrate-size: 40%;
+    --winrate-lane-size: calc(100% - var(--winrate-size)*2 - var(--winrate-first-margin));
+
+    --history-detail-size: calc(var(--banner-size)*1);
+    --match-history-size: calc(var(--banner-size)/3);
+    --match-history-icon-size: calc(var(--banner-size)/10*3);
+
+    --footer-option-size: calc(14px * var(--scale));
+
+    --color-txt: #f0e6d2;
+
+    --color-winc: #0acbe6;
+    --color-winb: #0b42b8;
+    --color-losec: #863041;
+    --color-loseb: #863041;
+
+    --color-1-1: #2d283c;
+    --color-1-2: #232832;
+    --color-1-3: #212025;
+    --color-1-4: #23232d;
+
+    --color-2-1: #232832;
+    --color-2-2: #1e282d;
+    --color-2-3: #191e23;
+    --color-2-4: #14191e;
+
+    --color-3-1: #010A13;
+    --color-3-2: #0a96aa;
+    --color-3-3: #1e2328;
+    --color-3-4: #863041;
+
+    --color-4-1: #1a1c21;
+    --color-4-2: #5f491e;
+    --color-4-3: #a09b8c;
+    --color-4-4: #9a9587;
+
+    --color-5-1: #eae1cd;
+    --color-5-2: #433514;
+    --color-5-3: #a09b8c;
+
+    --color-6-1: #434343;
+    --color-6-2: #9a9281;
+
+    --color-7-1: #232832;
+    --color-7-2: #b9a158;
+    --color-7-3: #c89b3c;
+    --color-7-4: #9b9688;
+    --color-7-5: #755515;
+    --color-7-6: #5c450f;
+}
+
+
+
+* {
+    /* global */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    /* block user select */
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    user-select:none;
+}
+
+
+
+.df {
+    display: flex;
+}
+.aic {
+    align-items: center;
+}
+.jcc {
+    justify-content: center;
+}
+.tc {
+    text-align: center;
+}
+
+
+
+body {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #061525;
+}
+
+
+
+main {
+    margin-top: calc(var(--banner-size)*2);
+    padding: 0 var(--banner-size);
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+
+
+
+.team-container {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.banner-container {
+    margin: 0 calc(var(--banner-size)/6);
+}
+.banner-container:hover {
+    z-index: 5000;
+}
+
+
+
+.banner-layer-1 {
+    position: relative;
+    top: calc(var(--banner-size)*-2/6 - var(--banner-border));
+    width: calc(var(--banner-size)*2 + var(--banner-border)*2);
+    height: calc(var(--banner-size)*4 + var(--banner-border)*2);
+    background: linear-gradient(to bottom, 
+        var(--color-1-1), 
+        var(--color-1-1), 
+        var(--color-1-1), 
+        var(--color-1-1), 
+        var(--color-1-2), 
+        var(--color-1-2), 
+        var(--color-1-2), 
+        var(--color-1-3), 
+        var(--color-1-3), 
+        var(--color-1-4)
+    );
+}
+.banner-layer-1::before {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)*-0.5 - var(--banner-border));
+    width: 0;
+    height: 0;
+    border-bottom: calc(var(--banner-size)*0.5 + var(--banner-border)) solid transparent;
+    border-left: calc(var(--banner-size) + var(--banner-border)) solid var(--color-1-4);
+    border-right: calc(var(--banner-size) + var(--banner-border)) solid var(--color-1-4);
+}
+.banner-layer-1::after {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)*-2/3 - var(--banner-border)/2);
+    width: 0;
+    height: 0;
+    border-top: calc(var(--banner-size)*2/3 + var(--banner-border)) solid var(--color-1-4);
+    border-left: calc(var(--banner-size) + var(--banner-border)) solid transparent;
+    border-right: calc(var(--banner-size) + var(--banner-border)) solid transparent;
+}
+
+
+
+.banner-layer-2 {
+    z-index: 2;
+    position: relative;
+    top: var(--banner-border);
+    left: var(--banner-border);
+    width: calc(var(--banner-size)*2);
+    height: calc(var(--banner-size)*4);
+    background: linear-gradient(to bottom, 
+        var(--color-2-1), 
+        var(--color-2-1), 
+        var(--color-2-1), 
+        var(--color-2-1), 
+        var(--color-2-2), 
+        var(--color-2-2), 
+        var(--color-2-2), 
+        var(--color-2-3), 
+        var(--color-2-3), 
+        var(--color-2-4)
+    );
+}
+.banner-layer-2::before {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size) * -0.5);
+    width: 0;
+    height: 0;
+    border-bottom: calc(var(--banner-size) * 0.5) solid transparent;
+    border-left: calc(var(--banner-size)) solid var(--color-2-4);
+    border-right: calc(var(--banner-size)) solid var(--color-2-4);
+}
+.banner-layer-2::after {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--banner-size)*-2/3);
+    width: 0;
+    height: 0;
+    border-top: calc(var(--banner-size)*2/3) solid var(--color-2-4);
+    border-left: calc(var(--banner-size)) solid transparent;
+    border-right: calc(var(--banner-size)) solid transparent;
+}
+
+
+
+.banner-page {
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.banner-footer {
+    position: absolute;
+    bottom: calc(var(--banner-size)*-2/3);
+    width: calc(var(--banner-size)*2);
+    height: calc(var(--banner-size)*2/3);
+    z-index: 1000;
+}
+.banner-footer .page-indicators {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: min-content;
+    height: min-content;
+}
+.banner-footer .page-indicators .page-indicator {
+    position: relative;
+    margin: calc(var(--footer-option-size)/2);
+    padding: calc(var(--footer-option-size)/4);
+    width: var(--footer-option-size);
+    height: var(--footer-option-size);
+    border-radius: 50%;
+    cursor: pointer;
+    background: var(--color-6-1);
+}
+.banner-footer .page-indicators .page-indicator::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(var(--footer-option-size)*0.7);
+    height: calc(var(--footer-option-size)*0.7);
+    border-radius: 50%;
+    background: var(--color-6-2);
+    transition: 0.3s;
+    opacity: 0;
+}
+.banner-footer .page-indicators .page-indicator.active::before {
+    opacity: 1;
+}

@@ -1,0 +1,225 @@
+@keyframes showLaneDetail {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+
+.options {
+    position: relative;
+    width: 100%;
+    height: var(--pg1-btn-size);
+}
+.options .option-container {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+.options .option-container .option {
+    position: absolute;
+    width: 90%;
+    height: 65%;
+    cursor: pointer;
+    color: var(--color-4);
+    font-size: calc(var(--bot-size)/20);
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    background: var(--color-2);
+    border: var(--border-size) solid var(--color-3);
+}
+.options .option-container #get-A {
+    left: 0;
+}
+.options .option-container #get-B {
+    right: 0;
+}
+
+
+
+
+
+.winrate {
+    position: relative;
+    width: 100%;
+    height: var(--pg1-wrt-size);
+}
+.winrate .switches {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.winrate .switches .switch {
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.winrate .switches .prev::before,.prev::after,.next::before,.next::after {
+    content: "";
+    cursor: pointer;
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+}
+.winrate .switches .prev {
+    left: 0;
+}
+.winrate .switches .prev::before {
+    left: 0;
+    border-top: calc(var(--pg1-wrt-size)*0.1) solid transparent;
+    border-bottom: calc(var(--pg1-wrt-size)*0.1) solid transparent;
+    border-right: calc(var(--pg1-wrt-size)*0.1 + var(--border-size)*2) solid var(--color-3);
+}
+.winrate .switches .prev::after {
+    left: var(--border-size);
+    border-top: calc(var(--pg1-wrt-size)*0.1 - var(--border-size)*2) solid transparent;
+    border-bottom: calc(var(--pg1-wrt-size)*0.1 - var(--border-size)*2) solid transparent;
+    border-right: calc(var(--pg1-wrt-size)*0.1) solid var(--color-2);
+}
+.winrate .switches .next {
+    right: 0;
+}
+.winrate .switches .next::before {
+    right: 0;
+    border-top: calc(var(--pg1-wrt-size)*0.1) solid transparent;
+    border-bottom: calc(var(--pg1-wrt-size)*0.1) solid transparent;
+    border-left: calc(var(--pg1-wrt-size)*0.1 + var(--border-size)*2) solid var(--color-3);
+}
+.winrate .switches .next::after {
+    right: var(--border-size);
+    border-top: calc(var(--pg1-wrt-size)*0.1 - var(--border-size)*2) solid transparent;
+    border-bottom: calc(var(--pg1-wrt-size)*0.1 - var(--border-size)*2) solid transparent;
+    border-left: calc(var(--pg1-wrt-size)*0.1) solid var(--color-2);
+}
+.winrate .page {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    flex-direction: column;
+}
+.winrate .page:first-child {
+    display: none;
+}
+.winrate .page .process {
+    width: calc(var(--pg1-wrt-size)*7/10);
+    height: calc(var(--pg1-wrt-size)*7/10);
+    border-radius: 50%;
+    background: conic-gradient(
+        var(--color-winb) 180deg,
+        var(--color-loseb) 180deg
+    );
+}
+.winrate .page .process::before {
+    content: "";
+    position: absolute;
+    width: calc(var(--pg1-wrt-size)*3/5);
+    height: calc(var(--pg1-wrt-size)*3/5);
+    border-radius: 50%;
+    background: var(--color-1);
+}
+.winrate .page .process .info {
+    flex-direction: column;
+    z-index: 1000;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: var(--color-txt);
+}
+.winrate .page .process .info > h3 {
+    font-size: calc(var(--pg1-wrt-size)/6);
+}
+.winrate .page .process .info > h4 {
+    font-size: calc(var(--pg1-wrt-size)/12);
+}
+.winrate .page .process .info span {
+    margin: 0 calc(var(--pg1-wrt-size)*0.025);
+}
+.winrate .page .mode {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: calc(var(--pg1-wrt-size)/8);
+    color: var(--color-txt);
+}
+
+
+
+
+
+.lane {
+    position: relative;
+    justify-content: space-between;
+    padding: 0 calc(var(--border-size)*2);
+    width: 100%;
+    height: var(--pg1-lan-size);
+}
+.lane .lane-type {
+    position: relative;
+    flex-grow: 1;
+    height: 60%;
+    cursor: pointer;
+}
+.lane .lane-type img {
+    max-width: 75%;
+    max-height: 75%;
+}
+.lane-type .lane-detail {
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    bottom: calc( var(--card-size)*0.1);
+    width: calc( var(--card-size)*0.225);
+    height: calc( var(--card-size)*0.2);
+    border: calc(2px * var(--scale)) solid var(--color-5);
+    background: var(--color-6);
+    font-size: calc(var(--pg1-lan-size)/4);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: var(--color-txt);
+    transition: 0.1s;
+}
+.lane-type .lane-detail::before {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--card-size)/-32 - var(--border-size)*2);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--card-size)/32 + var(--border-size)) solid transparent;
+    border-right: calc(var(--card-size)/32 + var(--border-size)) solid transparent;
+    border-top: calc(var(--card-size)/32 + var(--border-size)) solid var(--color-5);
+}
+.lane-type .lane-detail::after {
+    content: "";
+    position: absolute;
+    bottom: calc(var(--card-size)/-32);
+    width: 0;
+    height: 0;
+    border-left: calc(var(--card-size)/32) solid transparent;
+    border-right: calc(var(--card-size)/32) solid transparent;
+    border-top: calc(var(--card-size)/32) solid var(--color-6);
+}
+.lane-type:hover .lane-detail {
+    display: flex !important;
+    animation: showLaneDetail 0.3s linear forwards;
+}
+.lane-type .lane-detail * {
+    font-family: inherit;
+    font-weight: inherit;
+    color: inherit;
+    transition: inherit;
+}
+.lane-type .lane-detail > h4 {
+    width: max-content;
+}
