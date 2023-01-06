@@ -377,6 +377,13 @@ class Fetcher:
         
 
     def SearchChampionSelectTeam(self):
+        data = self.Fetch("lol-gameflow/v1/gameflow-phase")
+        if not data["success"]: 
+            self.Initialize()
+            return FAILED_JSON_RETURN.copy()
+        elif data["res"] != "ChampSelect":
+            return FAILED_JSON_RETURN.copy()
+
         data = self.Fetch(f"lol-summoner/v1/current-summoner")
         if not data["success"]: 
             self.Initialize()
